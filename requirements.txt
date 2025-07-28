@@ -1,0 +1,6 @@
+requests~=2.32.4
+fastapi~=0.116.1
+python-dotenv~=1.1.1
+openai~=1.97.1
+google-api-python-client~=2.177.0
+protobuf~=6.31.1
